@@ -1,0 +1,1 @@
+{"data":[{"Status":"Deferido","Tipo de operação":"Operação Contratual Interna","Código IBGE":12,"Data":"21\/05\/2018","Interessado":"Acre","Valor":3.1194537101E8,"UF":"AC","Moeda":"Real","Tipo de interessado":"Estado","Tipo de credor":"União","Finalidade":"Renegociação de dívidas","Número do Processo\/PVL":"17944.103796\/2017-51","Credor":"União","Analisado por":"STN"}]}
